@@ -4,6 +4,6 @@ package shapes;
         public void redraw();
         public void scale ();
         public void update();
-
+        public void delete();
 }
 
