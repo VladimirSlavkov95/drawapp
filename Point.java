@@ -1,1 +1,2 @@
 implements shape ..
+draw();
