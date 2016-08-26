@@ -1,2 +1,8 @@
 implements shape ..
 draw();
+
+
+
+
+
+ads
